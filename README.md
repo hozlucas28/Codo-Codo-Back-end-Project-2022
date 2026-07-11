@@ -18,12 +18,10 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=_ViGehlwlig&ab_channel=hozlucas28" target="_blank">
-        <img src="./.github/app-preview.png" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <strong>(watch a <a href="https://www.youtube.com/watch?v=_ViGehlwlig&ab_channel=hozlucas28" target="_blank">video preview</a>)</strong>
+		<img src="./.github/app-preview.png" width="800">
+		<br />
+		(demonstration video)
+	</a>
 </p>
 
 <h2>
